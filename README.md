@@ -29,7 +29,7 @@ It provides a total brain workout. Research has shown that listening to music ca
   Then we performed <b>Smote analysis</b> to balance the data by oversampling the minority class. Finally we applied various classifiers like
   <b> SVM (linear, polynomial and RBF), Random Forest, Decision Tree, KNN , Naive Bayes</b> to predict the cluster for a new data point.
     After training the model and fitting it on the trained data we found out that<b> SVM with polynomial kernel </b>prrovides the best accuracy
-  when it comes to making predicitions. with an accuracy of <b>98.3%</b>.
+  when it comes to making predicitions with an accuracy of <b>98.3%</b>.
  </p>
 
 # References
