@@ -8,9 +8,9 @@ Music is one of the universal cultural aspects of all human societies. People li
 and groove to the music of their interest.If you want to keep your brain engaged throughout the aging process, listening to or playing music is a great tool.
 It provides a total brain workout. Research has shown that listening to music can reduce anxiety, blood pressure, and pain as well as improve sleep quality, mood, mental alertness, and memory.
 <p>
-  Users add many songs after songs to their playlist but list to only a few of them,which depends on their mood at that time. What if we create 
-  sub playlists from their playlist according to audio features and user can choose the sub playlist based on their mood from their curated playlist.
-  Thereby reducing the search time and picking up the right sub playlist according to their mood.
+  Users add many songs after songs to their playlist but listen to only a few of them,which depends on their mood at that time. What if we create 
+  sub playlists from their playlist according to audio features and user can choose the sub playlist based on their mood from their curated playlist and
+  thereby reducing the search time and picking up the right sub playlist according to their mood.
  </p>
 
 [Spotify](https://www.spotify.com) is the most popular global audio streaming service with 365m users, including 165m subscribers across 178 markets.
@@ -19,7 +19,7 @@ It provides a total brain workout. Research has shown that listening to music ca
 </p>
 
 # Data Extraction
-<ul> Steps:
+<ul>
   <li> Create an account on https://developer.spotify.com/dashboard/</li>
   <li> Import the Spotipy module using pip</li>
   <li> Click on Create an app option, which will create a client id and client secret which is important for getting authorization</li>
