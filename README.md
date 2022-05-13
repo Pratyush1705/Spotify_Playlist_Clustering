@@ -7,6 +7,11 @@ to take a problem and solve it using any of the machine learning techniques.
 Music is one of the universal cultural aspects of all human societies. People listen to various kind of music to show emotions, feelings and communicate
 and groove to the music of their interest.If you want to keep your brain engaged throughout the aging process, listening to or playing music is a great tool.
 It provides a total brain workout. Research has shown that listening to music can reduce anxiety, blood pressure, and pain as well as improve sleep quality, mood, mental alertness, and memory.
+<p>
+  Users add many songs after songs to their playlist but list to only a few of them,which depends on their mood at that time. What if we create 
+  sub playlists from their playlist according to audio features and user can choose the sub playlist based on their mood from their curated playlist.
+  Thereby reducing the search time and picking up the right sub playlist according to their mood.
+ </p>
 
 [Spotify](https://www.spotify.com) is the most popular global audio streaming service with 365m users, including 165m subscribers across 178 markets.
 <p align="center" >
