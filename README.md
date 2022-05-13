@@ -34,9 +34,9 @@ It provides a total brain workout. Research has shown that listening to music ca
 
 # References
   
-  1)[Spotify Dashboard](https://developer.spotify.com/dashboard/)
-  2)[Spotipy documentation](https://spotipy.readthedocs.io/en/2.9.0/#)
-  3)[Playlist link](https://open.spotify.com/playlist/7xNEW3kVH1KXZ3yevHz5u4)
-  4)[Scikit learn documentation](https://scikit-learn.org/stable/)
-  5)[Data Extraction blog](https://towardsdatascience.com/extracting-song-data-from-the-spotify-api-using-python-b1e79388d50)
-  6)[Clustering algorithms documentation](https://scikit-learn.org/stable/modules/clustering.html)
+  1)[Spotify Dashboard](https://developer.spotify.com/dashboard/)<br>
+  2)[Spotipy documentation](https://spotipy.readthedocs.io/en/2.9.0/#)<br>
+  3)[Playlist link](https://open.spotify.com/playlist/7xNEW3kVH1KXZ3yevHz5u4)<br>
+  4)[Scikit learn documentation](https://scikit-learn.org/stable/)<br>
+  5)[Data Extraction blog](https://towardsdatascience.com/extracting-song-data-from-the-spotify-api-using-python-b1e79388d50)<br>
+  6)[Clustering algorithms documentation](https://scikit-learn.org/stable/modules/clustering.html)<br>
