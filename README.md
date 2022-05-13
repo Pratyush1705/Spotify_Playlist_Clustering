@@ -12,3 +12,8 @@ It provides a total brain workout. Research has shown that listening to music ca
 <p align="center" >
   <img src="https://developer.spotify.com/assets/branding-guidelines/logo@2x.png" >
 </p>
+
+# Data Extraction
+<ul> Steps:
+  <li> Create an account on [Spotify for Developers](https://developer.spotify.com/dashboard/)</li>
+</ul>
