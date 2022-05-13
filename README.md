@@ -15,5 +15,9 @@ It provides a total brain workout. Research has shown that listening to music ca
 
 # Data Extraction
 <ul> Steps:
-  <li> Create an account on [Spotify for Developers](https://developer.spotify.com/dashboard/)</li>
+  <li> Create an account on https://developer.spotify.com/dashboard/</li>
+  <li> Import the Spotipy module using pip</li>
+  <li> Click on Create an app option, which will create a client id and client secret which is important for getting authorization</li>
+  <li> Get the playlist id which we want to retrieve, in our case it is https://open.spotify.com/playlist/7xNEW3kVH1KXZ3yevHz5u4</li>
+  <li> Retrieve the audio features of the song into a csv file. Follow the jupyter notebook for extracting the playlist data</li>
 </ul>
