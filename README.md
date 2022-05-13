@@ -1,5 +1,3 @@
-[![MIT license]()](https://opensource.org/licenses/MIT)
-
 # Spotify_Playlist_Clustering
 This project is done as a part of my Machine Learning Theory Assignment where we have 
 to take a problem and solve it using any of the machine learning techniques.
