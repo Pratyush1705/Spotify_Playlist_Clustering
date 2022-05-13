@@ -21,3 +21,13 @@ It provides a total brain workout. Research has shown that listening to music ca
   <li> Get the playlist id which we want to retrieve, in our case it is https://open.spotify.com/playlist/7xNEW3kVH1KXZ3yevHz5u4</li>
   <li> Retrieve the audio features of the song into a csv file. Follow the jupyter notebook for extracting the playlist data</li>
 </ul>
+
+#Model 
+<p> In this project,we are going to take a playlist and divide the songs based on audio features into clusters 
+  where similar songs fall in the same cluster. For this we are using <b>KMEANS algorithm</b> to find the number of clusters
+  and cluster the songs. Then we performed <b>PCA analysis</b> to check if the information could be preserved as we reduce the dimensionality.
+  Then we performed <b>Smote analysis</b> to balance the data by oversampling the minority class. Finally we applied various classifiers like
+  <b> SVM (linear, polynomial and RBF), Random Forest, Decision Tree, KNN , Naive Bayes</b> to predict the cluster for a new data point.
+    After training the model and fitting it on the trained data we found out that<b> SVM with polynomial kernel </b>prrovides the best accuracy
+  when it comes to making predicitions. with an accuracy of <b>98.3%</b>.
+ </p>
